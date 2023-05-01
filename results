@@ -414,7 +414,7 @@ Lachlan,9,1-12,Dolphins,Canberra Raiders,5
 Lachlan,9,1-12,South Sydney Rabbitohs,Brisbane Broncos,6
 Lachlan,9,1-12,Parramatta Eels,Newcastle Knights,7
 Lachlan,9,1-12,Cronulla Sharks,North Queensland Cowboys,8
-Cam,9,1-12,St George-Illawarra Dragons,Canterbury Bulldogs,1
+Cam,9,1-12,Canterbury Bulldogs,St George-Illawarra Dragons,1
 Cam,9,1-12,New Zealand Warriors,Sydney Roosters,2
 Cam,9,13+,Penrith Panthers,Wests Tigers,3
 Cam,9,1-12,Sea Manly Sea Eagles,Gold Coast Titans,4
@@ -462,3 +462,19 @@ Josh,9,1-12,Dolphins,Canberra Raiders,5
 Josh,9,1-12,South Sydney Rabbitohs,Brisbane Broncos,6
 Josh,9,13+,Newcastle Knights,Parramatta Eels,7
 Josh,9,13+,North Queensland Cowboys,Cronulla Sharks,8
+Admin,9,1-12,Canterbury Bulldogs,St George-Illawarra Dragons,1
+Admin,9,13+,Sydney Roosters,New Zealand Warriors,2
+Admin,9,1-12,Wests Tigers,Penrith Panthers,3
+Admin,9,13+,Gold Coast Titans,Sea Manly Sea Eagles,4
+Admin,9,1-12,Canberra Raiders,Dolphins,5
+Admin,9,13+,South Sydney Rabbitohs,Brisbane Broncos,6
+Admin,9,13+,Parramatta Eels,Newcastle Knights,7
+Admin,9,13+,Cronulla Sharks,North Queensland Cowboys,8
+Jacob,10,1-12,Parramatta Eels,Gold Coast Titans,1
+Jacob,10,1-12,Sydney Roosters,North Queensland Cowboys,2
+Jacob,10,1-12,Wests Tigers,St George-Illawarra Dragons,3
+Jacob,10,1-12,South Sydney Rabbitohs,Melbourne Storm,4
+Jacob,10,13+,Cronulla Sharks,Dolphins,5
+Jacob,10,13+,Penrith Panthers,New Zealand Warriors,6
+Jacob,10,13+,Brisbane Broncos,Sea Manly Sea Eagles,7
+Jacob,10,1-12,Canberra Raiders,Canterbury Bulldogs,8
